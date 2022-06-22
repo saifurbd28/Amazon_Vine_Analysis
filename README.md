@@ -17,3 +17,16 @@ This project aim is to analyze a dataset from the Amazon Vine program (https://s
 
 ## The vine_table DataFrame
 ![vine_table](https://user-images.githubusercontent.com/100442163/175124399-1ddab318-0114-4e2e-a7e0-f56e9037bc18.png)
+
+# Deliverable-2:
+## How many Vine reviews and non-Vine reviews were there?
+    
+
+## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+
+
+## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+# Summary
+In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
