@@ -26,13 +26,13 @@ Vine members made up only 0.23% (94) of the reviews whereas the remaining 99.7% 
 ![Q1c](https://user-images.githubusercontent.com/100442163/175323702-bc8a842e-d794-4cbf-a926-bb786a08f04a.png)
 
 ## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-1. Vine members gave 454 out of 1,080 reviews a 5 star rating.
-2. Non-Vine members gave 23,034 out of 49,659 reviews a 5 star rating.
+1. Vine members gave 48 out of 94 reviews a 5 star rating.
+2. Non-Vine members gave 15,663 out of 40,471 reviews a 5 star rating.
 
 ## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-1. 42% of the reviews for Vine members were rated 5 stars.
-1. 46.4% of the reviews for Non-Vine members were rated 5 stars.
+1. 51.06% of the reviews for Vine members were rated 5 stars.
+1. 38.7% of the reviews for Non-Vine members were rated 5 stars.
 
 
 # Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Although ~50% vine members gave 5-star rating which is significantly higher than non-vine member's 5-start rating percentage (i.e., 38.7%), it will not significantly impact on the over-all rating since total vine members participation was very low (i.e., 0.23% of the total voters). 
