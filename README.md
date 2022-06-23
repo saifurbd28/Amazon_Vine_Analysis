@@ -20,13 +20,19 @@ This project aim is to analyze a dataset from the Amazon Vine program (https://s
 
 # Deliverable-2:
 ## How many Vine reviews and non-Vine reviews were there?
-    
+Vine members made up only 0.23% (94) of the reviews whereas the remaining 99.7% were Non-Vine members (40,471).
+![Q-1](https://user-images.githubusercontent.com/100442163/175320005-737082fa-0573-4e1e-a4b1-7ed048247756.png)
+![Q1b](https://user-images.githubusercontent.com/100442163/175323293-c97fb2aa-cd7c-4e8d-917e-39adee8a0dd6.png)
+![Q1c](https://user-images.githubusercontent.com/100442163/175323702-bc8a842e-d794-4cbf-a926-bb786a08f04a.png)
 
 ## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-
-
+1. Vine members gave 454 out of 1,080 reviews a 5 star rating.
+2. Non-Vine members gave 23,034 out of 49,659 reviews a 5 star rating.
 
 ## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+1. 42% of the reviews for Vine members were rated 5 stars.
+1. 46.4% of the reviews for Non-Vine members were rated 5 stars.
+
 
 # Summary
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
